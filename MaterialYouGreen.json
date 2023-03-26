@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "TraxTRL",
-            "id": "499287211381096458"
+            "id": "459444758561947659"
         }
     ],
     "semanticColors": {
@@ -49,23 +49,23 @@
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1c1c1c",
+            "#182D12",
             "#ebedef"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1c1c1c",
+            "#182D12",
             "#e3e5e8"
         ],
         "BACKGROUND_ACCENT": [
-            "#1c1c1c",
+            "#182D12",
             "#747f8d"
         ],
         "BACKGROUND_FLOATING": [
-            "#1c1c1c",
+            "#182D12",
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1c1c1c",
+            "#182D12",
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
@@ -141,9 +141,9 @@
         "PRIMARY_360": "#C8C8C8",
         "PRIMARY_400": "#29E600",
         "PRIMARY_600": "#151D13",
-        "PRIMARY_630": "#1c1c1c",
-        "PRIMARY_700": "#1c1c1c",
-        "PRIMARY_800": "#1c1c1c",
+        "PRIMARY_630": "#182D12",
+        "PRIMARY_700": "#182D12",
+        "PRIMARY_800": "#182D12",
         "BRAND_500": "#29E600",
         "RED_500": "#29E600",
         "GREEN_600": "#29E600"
