@@ -41,11 +41,11 @@
             "#c7ccd1"
         ],
         "BACKGROUND_PRIMARY": [
-            "#222222",
+            "#151D13",
             "#ffffff"
         ],
         "BACKGROUND_SECONDARY": [
-            "#222222",
+            "#151D13",
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
@@ -69,11 +69,11 @@
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#222222",
+            "#151D13",
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#222222",
+            "#151D13",
             "#ffffff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
@@ -113,7 +113,7 @@
             "#f2f2f2"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#222222",
+            "#151D13",
             "#ebedef"
         ],
         "CHANNELS_DEFAULT": [
@@ -125,11 +125,11 @@
             "#000000"
         ],
         "KEYBOARD": [
-            "#222222",
+            "#151D13",
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#222222",
+            "#151D13",
             "#ffffff"
         ]
     },
@@ -140,7 +140,7 @@
         "PRIMARY_300": "#B6B6B6",
         "PRIMARY_360": "#C8C8C8",
         "PRIMARY_400": "#b58af5",
-        "PRIMARY_600": "#222222",
+        "PRIMARY_600": "#151D13",
         "PRIMARY_630": "#1c1c1c",
         "PRIMARY_700": "#1c1c1c",
         "PRIMARY_800": "#1c1c1c",
