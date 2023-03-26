@@ -1,0 +1,152 @@
+{
+    "name": "Material You (Green)",
+    "description": "Theme using Green Material You colors",
+    "authors": [
+        {
+            "name": "TraxTRL",
+            "id": "499287211381096458"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f2f2f2",
+            "#060607"
+        ],
+        "HEADER_SECONDARY": [
+            "#f3f3f3",
+            "#4f5660"
+        ],
+        "TEXT_NORMAL": [
+            "#FBFBFB",
+            "#2e3338"
+        ],
+        "TEXT_MUTED": [
+            "#b58af5",
+            "#747f8d"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c8c8c8",
+            "#4f5660"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dcddde",
+            "#2e3338"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#060607"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#697eab",
+            "#c7ccd1"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#222222",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#222222",
+            "#f2f3f5"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1c1c1c",
+            "#ebedef"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1c1c1c",
+            "#e3e5e8"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#1c1c1c",
+            "#747f8d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1c1c1c",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1c1c1c",
+            "#f8f9f9"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#222222",
+            "#ffffff"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#222222",
+            "#ffffff"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#333333",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#333333",
+            "hsla(214, 9.9%, 50.4%, 0.08)"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#333333",
+            "hsla(214, 9.9%, 50.4%, 0.16)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#333333",
+            "hsla(214, 9.9%, 50.4%, 0.24)"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent",
+            "hsla(240, 7.7%, 2.5%, 0.08)"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#2a1858",
+            "hsla(217, 7.6%, 33.5%, 0.3)"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "hsla(0, 0%, 0%, 0)"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#2a1858",
+            "#cccccc"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.1)",
+            "#f2f2f2"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#222222",
+            "#ebedef"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b58af5",
+            "#6a7480"
+        ],
+        "TEXT_LINK": [
+            "#b58af5",
+            "#000000"
+        ],
+        "KEYBOARD": [
+            "#222222",
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#222222",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#b58af5",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#b58af5",
+        "PRIMARY_600": "#222222",
+        "PRIMARY_630": "#1c1c1c",
+        "PRIMARY_700": "#1c1c1c",
+        "PRIMARY_800": "#1c1c1c",
+        "BRAND_500": "#b58af5",
+        "RED_500": "#b58af5",
+        "GREEN_600": "#b58af5"
+    },
+    "spec": 2
+}
