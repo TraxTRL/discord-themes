@@ -77,19 +77,19 @@
             "#ffffff"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#333333",
+            "#2F4E37",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#333333",
+            "#2F4E37",
             "hsla(214, 9.9%, 50.4%, 0.08)"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#333333",
+            "#2F4E37",
             "hsla(214, 9.9%, 50.4%, 0.16)"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#333333",
+            "#2F4E37",
             "hsla(214, 9.9%, 50.4%, 0.24)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
