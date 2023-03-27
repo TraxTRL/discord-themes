@@ -1,6 +1,6 @@
 {
-    "name": "Material You (Green)",
-    "description": "Theme using Green Material You colors",
+    "name": "Grass",
+    "description": "A dark green theme that brings grass to your display so you don't need to go out to touch grass",
     "authors": [
         {
             "name": "TraxTRL",
@@ -145,7 +145,6 @@
         "PRIMARY_700": "#182D12",
         "PRIMARY_800": "#182D12",
         "BRAND_500": "#29E600",
-        "BRAND_900": "#ff0000",
         "RED_500": "#29E600",
         "GREEN_600": "#29E600"
     },
