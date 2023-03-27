@@ -77,11 +77,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#29e60050",
+      "#29e60030",
       "#FFFFFF"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#29e60050",
+      "#29e60030",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -148,9 +148,9 @@
     "PRIMARY_630": "#182D12",
     "PRIMARY_700": "#182D12",
     "PRIMARY_800": "#182D12",
-    "YELLOW_260": "#29e60050",
-    "YELLOW_300": "#29e60050",
-    "YELLOW_360": "#29e60050",
+    "YELLOW_260": "#29e60030",
+    "YELLOW_300": "#29e60030",
+    "YELLOW_360": "#29e60030",
     "BRAND_300": "#d3ffca",
     "BRAND_330": "#bcffad",
     "BRAND_345": "#aeff9c",
