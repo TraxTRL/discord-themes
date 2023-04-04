@@ -33,31 +33,31 @@
             "#fb6445"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#D32F2F"
         ],
         "BACKGROUND_SECONDARY": [
-            "#15100d"
+            "#C62828"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15100d"
+            "#C62828"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#D32F2F"
         ],
         "BACKGROUND_ACCENT": [
             "#462101"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#C62828"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#C62828"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#C62828"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#C62828"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -100,13 +100,13 @@
             "#462101"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#D32F2F"
         ],
         "CHANNEL_ICON": [
             "#f6a991"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#D32F2F"
         ]
     },
     "rawColors": {
