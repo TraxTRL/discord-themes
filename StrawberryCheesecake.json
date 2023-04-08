@@ -1,6 +1,6 @@
 {
-  "name": "Redcord",
-  "description": "Default theme with red colors instead of blue-purple colors",
+  "name": "Strawberry Cheesecake",
+  "description": "A theme using real cheesecake as main color and real strawberries as accent. Don't question it, just enjoy!",
   "authors": [
     {
       "name": "TraxTRL",
@@ -9,9 +9,9 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#4a4141",
-      "#786d6d",
-      "#191616"
+      "#f25858",
+      "#f25858",
+      "#f25858"
     ],
     "BACKGROUND_FLOATING": [
       "#141111",
@@ -79,9 +79,9 @@
       "#40383866"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#584e4e99",
-      "#8e80803d",
-      "#40383899"
+      "#f2585899",
+      "#f258583d",
+      "#f2585899"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#312b2b",
@@ -164,9 +164,9 @@
       "#584e4e"
     ],
     "INTERACTIVE_NORMAL": [
-      "#c1b5b5",
+      "#f25858",
       "#584e4e",
-      "#b3a5a5"
+      "#f25858"
     ],
     "MENTION_BACKGROUND": [
       "#f258584d",
